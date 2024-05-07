@@ -24,7 +24,7 @@ section {
     background-color: rgba(255, 255, 255, 0.1);
     border-radius: 25px;
     width:75%;
-    height: 60vh;
+    height: 60%;
     /* position: absolute;
     top:25vh;
     right: 25%; */
@@ -52,6 +52,7 @@ section h1 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    
     
 }
 .quotes-id {
@@ -132,8 +133,9 @@ section h1 {
 
 }
 .auto-status {
+    
     margin-top: 20px;
-    font-size: 36px;
+    font-size: 22px;
     color: red;
 }
 .home-sci {
